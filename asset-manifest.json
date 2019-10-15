@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/AvatarApp/static/css/main.e0c29f68.chunk.css",
+    "main.js": "/AvatarApp/static/js/main.3707dc6e.chunk.js",
+    "main.js.map": "/AvatarApp/static/js/main.3707dc6e.chunk.js.map",
+    "runtime-main.js": "/AvatarApp/static/js/runtime-main.ebc39f2d.js",
+    "runtime-main.js.map": "/AvatarApp/static/js/runtime-main.ebc39f2d.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/AvatarApp/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.d4649083.chunk.js": "/AvatarApp/static/js/2.d4649083.chunk.js",
+    "static/js/2.d4649083.chunk.js.map": "/AvatarApp/static/js/2.d4649083.chunk.js.map",
+    "index.html": "/AvatarApp/index.html",
+    "precache-manifest.68a002deb40d1c8ac31bfe6df986ace5.js": "/AvatarApp/precache-manifest.68a002deb40d1c8ac31bfe6df986ace5.js",
+    "service-worker.js": "/AvatarApp/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/AvatarApp/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.e0c29f68.chunk.css.map": "/AvatarApp/static/css/main.e0c29f68.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebc39f2d.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.d4649083.chunk.js",
+    "static/css/main.e0c29f68.chunk.css",
+    "static/js/main.3707dc6e.chunk.js"
+  ]
+}
